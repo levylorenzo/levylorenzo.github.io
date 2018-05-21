@@ -1,0 +1,17 @@
+p {
+	font-size: 14px;
+	color: #000000;
+}
+
+h1 {
+	color: #00ff00;
+}
+
+.active {
+	font-weight: bold;
+	font-size: 20px
+}
+
+body {
+	background-color: #ff0000;
+}
